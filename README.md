@@ -1,4 +1,4 @@
-<h1>Hi 👋, I&#39;m Lalatendu</h1>
+<h1>Hi 👋, I&#39;m Priyabrata Samal</h1>
 
 <h3>Personal Blog :&nbsp;<a href="https://lalatendu.info/">https://lalatendu.info</a></h3>
 
